@@ -22,6 +22,26 @@ La idea principal es que las opiniones no se limiten al texto escrito: los usuar
 ## ⚠️ Estado actual
 La aplicación no está en funcionamiento completo porque dependía de servicios de pago que ya no están disponibles.  
 
+## 📸 Capturas de la aplicación
+
+### Pantalla de inicio
+Aquí el usuario puede ver los abres cercanos y le aparece la opción de reseñar.
+
+![Pantalla de grabación](docs/screenshots/pantallaInicio.png)
+
+### Pantalla de reseña
+Vista donde se muestran las reseñas grabadas en el restaurante en concreto y la opción de grabar una reseña y transcribir los audios a texto.
+
+![Lista de reseñas](docs/screenshots/Reseña.png)
+
+### Pantalla de mapa
+Vista donde se muestra el mapa dependiendo de tu ubicación, con pines indicando los restaurantes cercanos
+
+![Lista de reseñas](docs/screenshots/mapa.png)
+
+La aplicación tenía mas funciones y pestañas, pero estas son las principales para ver como funcionaba y se veía la aplicación cuando estaba en funcionamiento.
+
+
 ---
 
 👨‍💻 **Autor:** Tristan Kempes  
