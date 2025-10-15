@@ -25,7 +25,7 @@ La aplicación no está en funcionamiento completo porque dependía de servicios
 ## 📸 Capturas de la aplicación
 
 ### Pantalla de inicio
-Aquí el usuario puede ver los abres cercanos y le aparece la opción de reseñar.
+Aquí el usuario puede ver los bares cercanos y le aparece la opción de reseñar.
 
 ![Pantalla de grabación](docs/screenshots/pantallaInicio.png)
 
